@@ -1,4 +1,5 @@
 {
+  "minimum-stability": "dev",
   "name": "functional-php/fantasy-land",
   "description": "Specification for interoperability of common algebraic structures in PHP",
   "type": "library",
